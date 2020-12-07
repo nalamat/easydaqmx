@@ -1,2 +1,3 @@
-# easydaqmx
+# EasyDAQmx
+
 No-brainer object-oriented interface for NI DAQ devices
